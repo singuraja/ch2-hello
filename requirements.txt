@@ -1,5 +1,4 @@
-# requirements.txt
-
 asgiref==3.11.0
 Django==5.2.8
+psycopg==3.2.13
 sqlparse==0.5.3
